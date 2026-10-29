@@ -38,5 +38,5 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 3. Explore the report pages, charts, KPI cards, and available filters.
 
 ## 👨‍💻 Author
+
 **Harsh Modhiya**  
-Aspiring Data Analyst | Power BI | SQL | Python | Excel
