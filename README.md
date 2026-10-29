@@ -29,10 +29,12 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 3. Attrition trends across work-life balance and job levels
 4. Job role and education-based employee analysis
 
-## 📁 Project File
-- `HR ANALYTICS.pbix` — Power BI dashboard file
-- 'HR_Analytics.csv' - Source Dataset
+## 📁 Project Files
 
+- `HR ANALYTICS.pbix` — Power BI dashboard file
+- `HR_Analytics.csv` — Source dataset
+
+  
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
 2. Open it using Microsoft Power BI Desktop.
