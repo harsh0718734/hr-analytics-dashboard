@@ -30,9 +30,10 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 4. Job role and education-based employee analysis
 
 ## 📁 Project Files
+- `HR ANALYTICS.pbix` — Master Power BI desktop application file housing the dashboard.
+- `HR_Analytics.csv` — Source dataset containing employee demographics, compensation, and attrition records.
+- `HR ANALYTICS DASHBOARD.png` — Preview screenshot of the executive Power BI dashboard.
 
-- `HR ANALYTICS.pbix` — Power BI dashboard file
-- `HR_Analytics.csv` — Source dataset
   
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
