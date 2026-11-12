@@ -37,6 +37,7 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
 2. Open it using Microsoft Power BI Desktop.
+3. Explore the report pages, charts, KPI cards, and available filters.
 
 ## 💡 Skills Demonstrated
 - Power BI dashboard development
@@ -49,8 +50,3 @@ An interactive HR Analytics Dashboard built using Microsoft Power BI to analyze 
 
 
 
-
-
-4. Explore the report pages, charts, KPI cards, and available filters.
-
-  HERE ALSO ADD SKILLS ONE
